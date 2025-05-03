@@ -53,14 +53,14 @@ const AboutMe = () => {
       <div className="about-stats">
         <div>
           <h3>
-            <span className="gradient-text">1</span>
+            <span className="gradient-text">6+</span>
           </h3>
-          <p>YEAR OF EXPERIENCE</p>
+          <p>MONTHS OF EXPERIENCE</p>
         </div>
         <hr />
         <div>
           <h3>
-            <span className="gradient-text">3+</span>
+            <span className="gradient-text">5+</span>
           </h3>
           <p>PROJECTS COMPLETED</p>
         </div>

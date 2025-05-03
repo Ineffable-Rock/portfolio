@@ -12,7 +12,7 @@ const MyWorkData = [
     {
         w_no:3,
         w_name:"web design",
-        w_img:"images/gemini.png"
+        w_img:"images/weather.png"
     }
 ]
 
